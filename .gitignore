@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+._*
+
+# Obsidian — личное состояние окна/воркспейса (не переносить между машинами)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian — кэши плагинов
+.obsidian/plugins/**/cache/
+
+# Корзина Obsidian
+.trash/
+
+# Локальные бэкапы и временные файлы
+*.tar.gz
+*.tmp

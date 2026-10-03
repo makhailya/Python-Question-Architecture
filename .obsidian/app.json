@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "Кеш",
+  "autoConvertHtml": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Новые файлы"
+}
