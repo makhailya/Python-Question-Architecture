@@ -6,8 +6,11 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
-# Obsidian — кэши плагинов
+# Obsidian — кэш плагинов
 .obsidian/plugins/**/cache/
+
+# Obsidian — изменяемое состояние графа (пересобирается у каждого)
+.obsidian/graph.json
 
 # Корзина Obsidian
 .trash/
