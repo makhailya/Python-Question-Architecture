@@ -31,3 +31,7 @@
 # Obsidian vault state and GitHub meta
 .obsidian/
 .github/
+
+# Локальные агенты и Excalidraw
+agent/skills/
+Excalidraw/
