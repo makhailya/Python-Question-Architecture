@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "humanize-writing": {
+      "source": "OzeroHAX/humanize-writing",
+      "sourceType": "github",
+      "skillPath": "skills/humanize-writing/SKILL.md",
+      "computedHash": "6194935f213d92e3b93ea3d54109a524ed20b08803b4d28b988f9e053ebd1a5b"
+    }
+  }
+}
