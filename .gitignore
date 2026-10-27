@@ -27,3 +27,7 @@
 .agents/
 .claude/
 .idea/
+
+# Obsidian vault state and GitHub meta
+.obsidian/
+.github/
